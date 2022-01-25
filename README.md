@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @h-s-miller
-- Incoming Bioinformatics PhD
-- Currently learning web dev for fun <3
+- Bioinformatics PhD @ UCSF
 
 <!---
 h-s-miller/h-s-miller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
